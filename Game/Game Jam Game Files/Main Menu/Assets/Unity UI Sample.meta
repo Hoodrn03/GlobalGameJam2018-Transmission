@@ -1,7 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Game/Game Jam Game Files/Main Menu/Assets/Unity UI Sample.meta
 guid: a06dc10323b1d9f428f7a09fd8b79988
 folderAsset: yes
 timeCreated: 1517056972
+=======
+guid: 2f151d80c0678c24eb7e0a79e918ae68
+folderAsset: yes
+timeCreated: 1517082018
+>>>>>>> Lloyd:Game Jam Game Files/Game Jam 2018 - Transmission/Assets/Prefabs.meta
 licenseType: Free
 DefaultImporter:
   userData: 

@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 12
-  productGUID: c99933fd545a45040aa1e077c0238707
+  productGUID: 89fa3ef68b3f2f1488fbea2806113694
   AndroidProfiler: 0
   defaultScreenOrientation: 4
   targetDevice: 2
@@ -586,13 +586,12 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
-  cloudServicesEnabled:
-    UNet: 1
+  cloudServicesEnabled: {}
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: acb063dc-a0e0-4b82-a671-a10b10989a5b
-  projectName: Game Jam 2018 - Transmission
-  organizationId: hoodrn03
+  cloudProjectId: 
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
