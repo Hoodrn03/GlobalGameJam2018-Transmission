@@ -1,3 +1,0 @@
-Textures
-
-This will be used to hold the different textures which will be used within the game. 
