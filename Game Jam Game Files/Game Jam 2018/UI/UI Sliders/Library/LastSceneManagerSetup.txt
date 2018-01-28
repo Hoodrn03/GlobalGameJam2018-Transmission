@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Scenes/HealthUIScene.unity
-  isLoaded: 1
-  isActive: 1

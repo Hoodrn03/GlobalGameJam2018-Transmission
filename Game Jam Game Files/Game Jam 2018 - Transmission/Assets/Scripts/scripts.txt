@@ -1,3 +1,0 @@
-Scripts
-
-This will be used to hold the different scripts for the game. 
