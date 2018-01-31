@@ -1,0 +1,6 @@
+Prefabs
+
+This will be used to hold the objects which have been configgured within unity. 
+
+Prefabs can be used to save certain game objects so that they can be easily reused. Most game objects should be 
+saved to allow for quick and easy level creation. 

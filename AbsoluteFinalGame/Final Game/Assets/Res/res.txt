@@ -1,0 +1,3 @@
+Res
+
+This will be used to hold the different resources which will be used within the game. 

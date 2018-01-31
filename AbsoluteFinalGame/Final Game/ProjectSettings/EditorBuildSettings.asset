@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 6bf311d731e494f4f81ca89759dbc4c9
+  - enabled: 1
+    path: Assets/Scenes/ControlScreen.unity
+    guid: ae0c4b9e465e2b648be68e13cbb59e02
+  - enabled: 1
+    path: Assets/Scenes/level_1.unity
+    guid: 4f9762c9f00ec2e458daebd69d541fbf
+  - enabled: 1
+    path: Assets/Scenes/level_2.unity
+    guid: 67f60eed4c199a84191e50f6dfab4127
+  - enabled: 1
+    path: Assets/Scenes/level_3.unity
+    guid: a37ad8a7e107fa34c91b9cc5f1f5d1f6
+  - enabled: 0
+    path: Assets/Scenes/Level1Blank.unity
+    guid: baf458f346c1cc542b6dc861a69ccc80
+  - enabled: 0
+    path: Assets/Scenes/Level2Blank.unity
+    guid: 0864dfa88b0c4fc4d810cd5636329441
+  - enabled: 0
+    path: Assets/Scenes/Level3Blank.unity
+    guid: 44e3e125231e84c48bc290b743276692
+  - enabled: 0
+    path: Assets/Scenes/HealthUIScene.unity
+    guid: b9e326796cb8af7479d3d4db2e7534cf
+  - enabled: 0
+    path: 
+    guid: fa0913115ac1d4fba8b9d10280f4b04d
+  - enabled: 0
+    path: 
+    guid: 300be4df7926761408aa46af2a199fbe
+  - enabled: 0
+    path: 
+    guid: e31151469f9db41bb99384b804f43c3d
